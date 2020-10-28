@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="latexcv icon" src="./avatar.png" height="300px" />
   <br />
-  LaTex CV and Resume Collection
+  LaTex Theme for my Resume
 </h1>
 
 <div align="center">
@@ -26,74 +26,17 @@ Now with support for Chinese, Japanese and Korean character encoding. Setup is o
 </p>	
 <br />
 
-<div align="center">
-<table width="100%" margin-left="auto" margin-right="auto">
-	<tr>
-		<th>Classic</th>
-		<th>Modern</th>
-	</tr>
-	<tr>
-		<td width="50%">
-			<img src="docs/media/classic.png" 
-				alt="Classic CV example preview" />
-		</td>
-		<td width="50%">
-			<img src="docs/media/modern.png" 
-				alt="Modern CV example preview" />
-		</td>
-	</tr>
-</table>
+<h1 align="center">
+  <img alt="banner icon" src="./Banner.png" height="300px" />
+  <br />
+  Collage as Banner 
+</h1>
 
-<table width="100%" margin-left="auto" margin-right="auto">
-	<tr>
-		<th>Infographics</th>
-		<th>Two Columns</th>
-	</tr>
-	<tr>
-		<td width="50%">
-			<img src="docs/media/infographics.png" 
-				alt="Infographics CV example preview" />
-		</td>
-		<td width="50%">
-			<img src="docs/media/two_column.png" 
-				alt="Two Column CV example preview" />
-		</td>
-	</tr>
-</table>
-
-<table>
-    <tr>
-       	<th>Sidebar</th>
-       	<th>Row Layout</th>
-    </tr>
-    	<tr>	
-    		<td width="50%">
-    			<img src="docs/media/sidebar.png" 
-    				alt="Sidebar CV example preview" />
-    		</td>
-    		<td width="50%">
-    		    <img src="docs/media/rows.png"
-    		    alt="Row-Layout CV example preview" />
-            </td>    	
-    	</tr>
-</table>
-
-<table>
-    <tr>
-       	<th>Sidebar Left</th>
-       	<th>More coming soon...</th>
-    </tr>
-    	<tr>	
-    		<td width="50%">
-    			<img src="docs/media/sidebarleft.png"
-    				alt="Left sidebar CV example preview" />
-    		</td>
-    		<td width="50%">
-    			<h4>Your idea for a new template.</h4>
-            </td>    	
-    	</tr>
-</table>
-</div>
+<h1 align="center">
+  <img alt="screen icon" src="./Cv_screen.jpeg" height="300px" />
+  <br />
+  Screenshot of my CV
+</h1>
 
 **Great first impression**
 
