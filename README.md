@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="latexcv icon" src="./logo.svg" height="300px" />
+  <img alt="latexcv icon" src="./avatar.png" height="300px" />
   <br />
   LaTex CV and Resume Collection
 </h1>
