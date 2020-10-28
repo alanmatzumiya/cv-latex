@@ -27,13 +27,13 @@ Now with support for Chinese, Japanese and Korean character encoding. Setup is o
 <br />
 
 <h1 align="center">
-  <img alt="latexcv icon" src="./Banner.png" height="300px" />
+  <img alt="banner icon" src="./Banner.jpeg" height="300px" />
   <br />
   Collage as Banner 
 </h1>
 
 <h1 align="center">
-  <img alt="screen icon" src="./Cv_screen.jpeg" height="300px" />
+  <img alt="screen icon" src="./Cv_screen.png" height="300px" />
   <br />
   Screenshot of my CV
 </h1>
