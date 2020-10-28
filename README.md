@@ -27,7 +27,7 @@ Now with support for Chinese, Japanese and Korean character encoding. Setup is o
 <br />
 
 <h1 align="center">
-  <img alt="banner icon" src="./Banner.png" height="300px" />
+  <img alt="latexcv icon" src="./Banner.png" height="300px" />
   <br />
   Collage as Banner 
 </h1>
