@@ -33,7 +33,7 @@ Now with support for Chinese, Japanese and Korean character encoding. Setup is o
 </h1>
 
 <h1 align="center">
-  <img alt="screen icon" src="./Cv_screen.png"/>
+  <img alt="screen icon" src="./cv_scree.png"/>
   <br />
   Screenshot of my CV
 </h1>
