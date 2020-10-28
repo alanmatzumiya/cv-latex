@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img alt="latexcv icon" src="./avatar.png" height="300px" />
+  <img alt="latexcv icon" src="./avatar.png"/>
   <br />
-  LaTex Theme for my Resume
+  Theme LaTex for my Resume
 </h1>
 
 <div align="center">
