@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="latexcv icon" src="./img/avatar.png"/>
   <br />
-  Theme LaTex for my Resume
+  LaTex for your resume, it's elegant and funny.
 </h1>
 
 <div align="center">
