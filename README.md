@@ -27,17 +27,17 @@ Now with support for Chinese, Japanese and Korean character encoding. Setup is o
 <br />
 
 <h1 align="center">
-  <img src="./img/banner.jpg"/>
-  <br />
-  Collage as Banner 
+  collage as banner
+  <br>
+  <img src="./img/banner.jpg"/> 
 </h1>
 
 <h1 align="center">
+  you can try to use my demos
+  <br>
   <img alt="screen icon" src="./img/cv_me.png"/>
   <br />
   <img alt="screen icon" src="./img/cv_me2.png"/>
-  <br />
-  Screenshot of my CV
 </h1>
 
 <div align="center">
