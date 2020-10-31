@@ -27,7 +27,7 @@ Now with support for Chinese, Japanese and Korean character encoding. Setup is o
 <br />
 
 <h1 align="center">
-  <img src="./img/banner.png"/>
+  <img src="./img/banner.jpg"/>
   <br />
   Collage as Banner 
 </h1>
