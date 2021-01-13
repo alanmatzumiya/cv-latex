@@ -1,7 +1,7 @@
 %-----------------------------------------------------------------------------------------------------------------------------------------------%
 %	The MIT License (MIT)
 %
-%	Copyright (c) 2015 Jan Küster
+%	Copyright (c) 2021 Alan Matzumiya
 %
 %	Permission is hereby granted, free of charge, to any person obtaining a copy
 %	of this software and associated documentation files (the "Software"), to deal
@@ -137,19 +137,13 @@
 \usepackage{transparent}
 \usepackage{color}
 
-%accent color
+% main colors
 \definecolor{complcol}{RGB}{244,160,0}
-
-%dark background color
 \definecolor{bgcol}{RGB}{110,110,110}
-
-%light background / accent color
 \definecolor{softcol}{RGB}{219,68,55}
-
 \definecolor{sectcol}{RGB}{66,133,244}
-
 \definecolor{maya}{RGB}{124,185,232}
-
+% pie chart colors
 \definecolor{col1}{RGB}{66,133,244}
 \definecolor{col2}{RGB}{219,68,55}
 \definecolor{col3}{RGB}{244,160,0}
@@ -171,7 +165,6 @@
 % to keep padding included in width calculations
 \newcommand{\mpwidth}{\linewidth-\fboxsep-\fboxsep}
 	
-
 %----------------------------------------------------------------------------------------
 % 	ARROW GRAPHICS in Tikz
 %----------------------------------------------------------------------------------------
@@ -213,7 +206,6 @@
 \larrow{softcol} \hspace{-8pt} \larrow{softcol} \hspace{-8pt} \larrow{softcol} \textbf{\textcolor{white}{\uppercase{#1}}}\hspace{4pt}
 }}\\
 }
-
 
 \newcommand{\cvskill}[3] {
 	\begin{tabular*}{1\mpwidth}{p{0.75\mpwidth}  r}
@@ -331,7 +323,6 @@
 %============================================================================%
 \begin{document}
 \fcolorbox{white}{white}{\begin{minipage}[c][0.96\textheight][t]{0.7\linewidth}
-
 
 %---------------------------------------------------------------------------------------
 %	TITLE HEADLINE
@@ -544,16 +535,17 @@
 %	ARTIFICIAL FOOTER (fancy footer cannot exceed linewidth) 
 %--------------------------------------------------------------------------------------------------
 
-\vspace{1mm}
 \null
 \vspace*{\fill}
 \hspace{-0.25\linewidth}\colorbox{bgcol}{
 	\makebox[1.45\linewidth][c]{
 		\mystrut \small \textcolor{white}{
-			Coypright 2020 Alan Matzumiya}
+			Coypright 2021 Alan Matzumiya
+		}
 	}
 }
 
+\vspace{1mm}
 \newpage
 %---------------------------------------------------------------------------------------
 %	PROJECTS
@@ -571,7 +563,7 @@
 		\parbox{1\linewidth}{
 			{\href{https://circuitalminds.github.io/}
 				{
-					{\colorbox{gray}{\hspace{7mm}\textcolor{white}{\textbf{CircuitalMinds}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{7mm}}}}
+					{\colorbox{gray}{\hspace{7mm}\textcolor{white}{\textbf{CircuitalMinds}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{6mm}}}}
 			}
 		}
 	}
@@ -683,7 +675,7 @@
 
 \null
 \vspace*{\fill}
-\hspace{-0.25\linewidth}\colorbox{bgcol}{\makebox[1.45\linewidth][c]{\mystrut \small \textcolor{white}{Coypright 2020 Alan Matzumiya}}}
+\hspace{-0.25\linewidth}\colorbox{bgcol}{\makebox[1.45\linewidth][c]{\mystrut \small \textcolor{white}{Coypright 2021 Alan Matzumiya}}}
 
 \vspace{1mm}
 \newpage
@@ -906,16 +898,16 @@
 %	ARTIFICIAL FOOTER (fancy footer cannot exceed linewidth) 
 %--------------------------------------------------------------------------------------------------
 
-\vspace{1mm}
 \null
 \vspace*{\fill}
 \hspace{-0.25\linewidth}\colorbox{bgcol}{
 	\makebox[1.45\linewidth][c]{
 		\mystrut \small \textcolor{white}{
-			Coypright 2020 Alan Matzumiya}
+			Coypright 2021 Alan Matzumiya}
 	}
 }
 
+\vspace{1mm}
 \newpage
 %---------------------------------------------------------------------------------------
 %	PROYECTOS
@@ -933,7 +925,7 @@
 		\parbox{1\linewidth}{
 			{\href{https://circuitalminds.github.io/}
 				{
-					{\colorbox{gray}{\hspace{7mm}\textcolor{white}{\textbf{CircuitalMinds}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{7mm}}}}
+					{\colorbox{gray}{\hspace{7mm}\textcolor{white}{\textbf{CircuitalMinds}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{6mm}}}}
 			}
 		}
 	}
@@ -1046,7 +1038,12 @@
 
 \null
 \vspace*{\fill}
-\hspace{-0.25\linewidth}\colorbox{bgcol}{\makebox[1.45\linewidth][c]{\mystrut \small \textcolor{white}{Coypright 2020 Alan Matzumiya}}}
+\hspace{-0.25\linewidth}\colorbox{bgcol}{
+	\makebox[1.45\linewidth][c]{
+		\mystrut \small \textcolor{white}{
+			Coypright 2021 Alan Matzumiya}
+	}
+}
 
 \vspace{1mm}
 \end{document}
