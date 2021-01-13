@@ -1,47 +1,47 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.31)  31 OCT 2020 03:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.11.6)  12 JAN 2021 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-07-17>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
 )
 (/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count175
-\calc@Bcount=\count176
+\calc@Acount=\count176
+\calc@Bcount=\count177
 \calc@Adimen=\dimen135
 \calc@Bdimen=\dimen136
 \calc@Askip=\skip49
 \calc@Bskip=\skip50
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count177
+\calc@Ccount=\count178
 \calc@Cskip=\skip51
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
@@ -58,7 +58,7 @@ engines.
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
@@ -68,11 +68,11 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks16
-\XKV@tempa@toks=\toks17
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count178
+\XKV@depth=\count179
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
@@ -82,7 +82,7 @@ Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
-Package: fontaxes 2014/03/23 v1.0d Font selection axes
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
 LaTeX Info: Redefining \slshape on input line 33.
@@ -121,9 +121,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count179
-\Gm@cntv=\count180
-\c@Gm@tempcnt=\count181
+\Gm@cnth=\count180
+\Gm@cntv=\count181
+\c@Gm@tempcnt=\count182
 \Gm@bindingoffset=\dimen137
 \Gm@wd@mp=\dimen138
 \Gm@odd@mp=\dimen139
@@ -132,18 +132,18 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen142
 \Gm@layouthoffset=\dimen143
 \Gm@layoutvoffset=\dimen144
-\Gm@dimlist=\toks18
+\Gm@dimlist=\toks19
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count182
+\c@tracingmulticols=\count183
 \mult@box=\box45
 \multicol@leftmargin=\dimen145
-\c@unbalance=\count183
-\c@collectmore=\count184
-\doublecol@number=\count185
-\multicoltolerance=\count186
-\multicolpretolerance=\count187
+\c@unbalance=\count184
+\c@collectmore=\count185
+\doublecol@number=\count186
+\multicoltolerance=\count187
+\multicolpretolerance=\count188
 \full@width=\dimen146
 \page@free=\dimen147
 \premulticols=\dimen148
@@ -194,20 +194,20 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box86
 \@tempa=\box87
 \@tempa=\box88
-\c@minrows=\count188
-\c@columnbadness=\count189
-\c@finalcolumnbadness=\count190
+\c@minrows=\count189
+\c@columnbadness=\count190
+\c@finalcolumnbadness=\count191
 \last@try=\dimen151
 \multicolovershoot=\dimen152
 \multicolundershoot=\dimen153
 \mult@nat@firstbox=\box89
 \colbreak@box=\box90
-\mc@col@check@num=\count191
+\mc@col@check@num=\count192
 )
 (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip54
-\multirow@cntb=\count192
+\multirow@cntb=\count193
 \multirow@dima=\skip55
 \bigstrutjot=\dimen154
 )
@@ -216,7 +216,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen155
 \ar@mcellbox=\box91
 \extrarowheight=\dimen156
-\NC@list=\toks19
+\NC@list=\toks20
 \extratabsurround=\skip56
 \backup@length=\skip57
 \ar@cellbox=\box92
@@ -244,24 +244,24 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen159
 \WF@size=\dimen160
-\c@WF@wrappedlines=\count193
+\c@WF@wrappedlines=\count194
 \WF@box=\box93
-\WF@everypar=\toks20
+\WF@everypar=\toks21
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count194
-\float@exts=\toks21
+\c@float@type=\count195
+\float@exts=\toks22
 \float@box=\box94
-\@float@everytoks=\toks22
+\@float@everytoks=\toks23
 \@floatcapt=\box95
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks23
+\pgfutil@everybye=\toks24
 \pgfutil@tempdima=\dimen161
 \pgfutil@tempdimb=\dimen162
 
@@ -283,12 +283,12 @@ Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks24
-\pgfkeys@temptoks=\toks25
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks26
+\pgfkeys@tmptoks=\toks27
 ))
 \pgf@x=\dimen163
 \pgf@y=\dimen164
@@ -302,14 +302,14 @@ ex
 \pgf@yd=\dimen172
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count195
-\c@pgf@countb=\count196
-\c@pgf@countc=\count197
-\c@pgf@countd=\count198
-\t@pgf@toka=\toks27
-\t@pgf@tokb=\toks28
-\t@pgf@tokc=\toks29
-\pgf@sys@id@count=\count199
+\c@pgf@counta=\count196
+\c@pgf@countb=\count197
+\c@pgf@countc=\count198
+\c@pgf@countd=\count199
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+\pgf@sys@id@count=\count266
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
@@ -325,8 +325,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count266
-\pgfsyssoftpath@bigbuffer@items=\count267
+\pgfsyssoftpath@smallbuffer@items=\count267
+\pgfsyssoftpath@bigbuffer@items=\count268
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -356,11 +356,11 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen173
-\pgfmath@count=\count268
+\pgfmath@count=\count269
 \pgfmath@box=\box97
-\pgfmath@toks=\toks30
-\pgfmath@stack@operand=\toks31
-\pgfmath@stack@operation=\toks32
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -380,7 +380,7 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count269
+\c@pgfmathroundto@lastzeros=\count270
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
@@ -419,7 +419,7 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box98
 \pgf@hbox=\box99
 \pgf@layerbox@main=\box100
-\pgf@picture@serial@count=\count270
+\pgf@picture@serial@count=\count271
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
@@ -452,8 +452,8 @@ File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen197
-\pgf@sys@shading@range@num=\count271
-\pgf@shadingcount=\count272
+\pgf@sys@shading@range@num=\count272
+\pgf@shadingcount=\count273
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -504,8 +504,8 @@ Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen256
 \pgffor@skip=\dimen257
-\pgffor@stack=\toks33
-\pgffor@toks=\toks34
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
@@ -513,7 +513,7 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count273
+\pgf@plot@mark@count=\count274
 \pgfplotmarksize=\dimen258
 )
 \tikz@lastx=\dimen259
@@ -528,18 +528,18 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikz@figbox@bg=\box104
 \tikz@tempbox=\box105
 \tikz@tempbox@bg=\box106
-\tikztreelevel=\count274
-\tikznumberofchildren=\count275
-\tikznumberofcurrentchild=\count276
-\tikz@fig@count=\count277
+\tikztreelevel=\count275
+\tikznumberofchildren=\count276
+\tikznumberofcurrentchild=\count277
+\tikz@fig@count=\count278
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count278
-\pgfmatrixcurrentcolumn=\count279
-\pgf@matrix@numberofcolumns=\count280
+\pgfmatrixcurrentrow=\count279
+\pgfmatrixcurrentcolumn=\count280
+\pgf@matrix@numberofcolumns=\count281
 )
-\tikz@expandcount=\count281
+\tikz@expandcount=\count282
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -636,7 +636,7 @@ e.tex
 \pgfdecoratedinputsegmentcompleteddistance=\dimen269
 \pgfdecoratedinputsegmentremainingdistance=\dimen270
 \pgf@decorate@distancetomove=\dimen271
-\pgf@decorate@repeatstate=\count282
+\pgf@decorate@repeatstate=\count283
 \pgfdecorationsegmentamplitude=\dimen272
 \pgfdecorationsegmentlength=\dimen273
 )
@@ -649,13 +649,13 @@ Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
@@ -684,11 +684,11 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 \@linkdim=\dimen274
-\Hy@linkcounter=\count283
-\Hy@pagecounter=\count284
+\Hy@linkcounter=\count284
+\Hy@pagecounter=\count285
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -698,22 +698,21 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count285
-\pdfmajorversion=\count286
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+\Hy@SavedSpaceFactor=\count286
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
+Package hyperref Info: Bookmarks ON on input line 4717.
 \c@Hy@tempcnt=\count287
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5159.
+LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen275
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
@@ -726,15 +725,15 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count288
 \Field@Width=\dimen276
 \Fld@charsize=\dimen277
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring OFF on input line 6450.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
 
 (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
@@ -746,7 +745,7 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
@@ -772,7 +771,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \c@c=\count296
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count297
 \l__pdf_internal_box=\box130
 )
@@ -843,12 +842,12 @@ LaTeX Font Info:    ... okay on input line 332.
 \scratchbox=\box131
 \nofMPsegments=\count301
 \nofMParguments=\count302
-\everyMPshowfont=\toks35
+\everyMPshowfont=\toks36
 \MPscratchCnt=\count303
 \MPscratchDim=\dimen279
 \MPnumerator=\count304
 \makeMPintoPDFobject=\count305
-\everyMPtoPDFconversion=\toks36
+\everyMPtoPDFconversion=\toks37
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -883,10 +882,10 @@ LaTeX Info: Redefining \nameref on input line 332.
 
 LaTeX Font Info:    Font shape `T1/GilliusADF-LF/m/n' will be
 (Font)              scaled to size 29.86pt on input line 457.
-<../img/banner.jpg, id=7, 1597.97pt x 644.4075pt>
-File: ../img/banner.jpg Graphic file (type jpg)
-<use ../img/banner.jpg>
-Package pdftex.def Info: ../img/banner.jpg  used on input line 457.
+<banner.jpg, id=7, 1597.97pt x 644.4075pt>
+File: banner.jpg Graphic file (type jpg)
+<use banner.jpg>
+Package pdftex.def Info: banner.jpg  used on input line 457.
 (pdftex.def)             Requested size: 390.17366pt x 157.34532pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 457.
@@ -1064,9 +1063,9 @@ Overfull \hbox (30.32951pt too wide) in paragraph at lines 457--546
  []
 
 LaTeX Font Info:    Font shape `T1/GilliusADF-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 549.
+(Font)              scaled to size 9.0pt on input line 555.
 
-Overfull \hbox (117.53314pt too wide) in paragraph at lines 549--550
+Overfull \hbox (123.53314pt too wide) in paragraph at lines 550--556
 [] [][][][][][] 
  []
 
@@ -1075,175 +1074,365 @@ Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../img/banner.jpg>]
-File: ../img/banner.jpg Graphic file (type jpg)
-<use ../img/banner.jpg>
-Package pdftex.def Info: ../img/banner.jpg  used on input line 685.
-(pdftex.def)             Requested size: 390.17366pt x 157.34532pt.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./banner.jpg>]
+<screen_CircuitalMinds_git.png, id=34, 1015.795pt x 124.465pt>
+File: screen_CircuitalMinds_git.png Graphic file (type png)
+<use screen_CircuitalMinds_git.png>
+Package pdftex.def Info: screen_CircuitalMinds_git.png  used on input line 564.
 
-Overfull \hbox (6.07103pt too wide) in paragraph at lines 685--685
-[] [][][][][][]
- []
+(pdftex.def)             Requested size: 557.67421pt x 68.33441pt.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
-
- []
-
-
-Overfull \hbox (15.98392pt too wide) in alignment at lines 685--685
+Overfull \hbox (1.27043pt too wide) in alignment at lines 584--584
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
-[][]
- []
-
-
-Overfull \hbox (15.93391pt too wide) in alignment at lines 685--685
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
-[][][][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
-
- []
-
-
-Overfull \hbox (6.28935pt too wide) in alignment at lines 685--685
-[][] 
- []
-
-
-Overfull \hbox (207.18512pt too wide) in alignment at lines 685--685
+Overfull \hbox (290.83711pt too wide) in alignment at lines 584--584
 [] 
  []
 
 
-Overfull \hbox (6.28935pt too wide) in alignment at lines 685--685
+Overfull \hbox (1.27043pt too wide) in alignment at lines 606--606
 [][] 
  []
 
 
-Overfull \hbox (207.18512pt too wide) in alignment at lines 685--685
+Overfull \hbox (290.83711pt too wide) in alignment at lines 606--606
 [] 
  []
 
 
-Overfull \hbox (6.28935pt too wide) in alignment at lines 685--685
+Overfull \hbox (1.27043pt too wide) in alignment at lines 627--627
 [][] 
  []
 
 
-Overfull \hbox (207.18512pt too wide) in alignment at lines 685--685
+Overfull \hbox (290.83711pt too wide) in alignment at lines 627--627
 [] 
  []
 
 
-Overfull \hbox (6.28935pt too wide) in alignment at lines 685--685
+Overfull \hbox (1.27043pt too wide) in alignment at lines 648--648
 [][] 
  []
 
 
-Overfull \hbox (207.18512pt too wide) in alignment at lines 685--685
+Overfull \hbox (290.83711pt too wide) in alignment at lines 648--648
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
 
  []
 
 
-Overfull \hbox (6.28935pt too wide) in alignment at lines 685--685
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+
  []
 
 
-Overfull \hbox (207.18512pt too wide) in alignment at lines 685--685
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+
  []
 
 
-Overfull \hbox (6.28935pt too wide) in alignment at lines 685--685
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+
  []
 
 
-Overfull \hbox (207.18512pt too wide) in alignment at lines 685--685
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 767--767
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 692--692
+
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 767--767
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 767--767
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 767--767
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 767--767
-[][] 
- []
-
-
-Overfull \hbox (30.32951pt too wide) in paragraph at lines 685--771
+Overfull \hbox (0.84413pt too wide) in paragraph at lines 692--692
 [][][][][][][] 
  []
 
 
-Overfull \hbox (117.53314pt too wide) in paragraph at lines 774--775
+Overfull \hbox (12.0pt too wide) in paragraph at lines 564--693
+[][][][][][] 
+ []
+
+
+Overfull \hbox (117.53314pt too wide) in paragraph at lines 696--697
 [] [][][][][][] 
  []
 
 
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
- [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 777.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 777.
+ [2 <./screen_CircuitalMinds_git.png>]
+File: banner.jpg Graphic file (type jpg)
+<use banner.jpg>
+Package pdftex.def Info: banner.jpg  used on input line 832.
+(pdftex.def)             Requested size: 390.17366pt x 157.34532pt.
+
+Overfull \hbox (6.07103pt too wide) in paragraph at lines 832--832
+[] [][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--832
+
+ []
+
+
+Overfull \hbox (15.98392pt too wide) in alignment at lines 832--832
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--832
+[][]
+ []
+
+
+Overfull \hbox (15.93391pt too wide) in alignment at lines 832--832
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--832
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--832
+[][][][][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--832
+
+ []
+
+
+Overfull \hbox (6.28935pt too wide) in alignment at lines 832--832
+[][] 
+ []
+
+
+Overfull \hbox (207.18512pt too wide) in alignment at lines 832--832
+[] 
+ []
+
+
+Overfull \hbox (6.28935pt too wide) in alignment at lines 832--832
+[][] 
+ []
+
+
+Overfull \hbox (207.18512pt too wide) in alignment at lines 832--832
+[] 
+ []
+
+
+Overfull \hbox (6.28935pt too wide) in alignment at lines 832--832
+[][] 
+ []
+
+
+Overfull \hbox (207.18512pt too wide) in alignment at lines 832--832
+[] 
+ []
+
+
+Overfull \hbox (6.28935pt too wide) in alignment at lines 832--832
+[][] 
+ []
+
+
+Overfull \hbox (207.18512pt too wide) in alignment at lines 832--832
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 832--832
+
+ []
+
+
+Overfull \hbox (6.28935pt too wide) in alignment at lines 832--832
+[][] 
+ []
+
+
+Overfull \hbox (207.18512pt too wide) in alignment at lines 832--832
+[] 
+ []
+
+
+Overfull \hbox (6.28935pt too wide) in alignment at lines 832--832
+[][] 
+ []
+
+
+Overfull \hbox (207.18512pt too wide) in alignment at lines 832--832
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 914--914
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 914--914
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 914--914
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 914--914
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 914--914
+[][] 
+ []
+
+
+Overfull \hbox (30.32951pt too wide) in paragraph at lines 832--918
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (123.53314pt too wide) in paragraph at lines 922--928
+[] [][][][][][] 
+ []
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [3]
+File: screen_CircuitalMinds_git.png Graphic file (type png)
+<use screen_CircuitalMinds_git.png>
+Package pdftex.def Info: screen_CircuitalMinds_git.png  used on input line 936.
+
+(pdftex.def)             Requested size: 557.67421pt x 68.33441pt.
+
+Overfull \hbox (1.27043pt too wide) in alignment at lines 956--956
+[][] 
+ []
+
+
+Overfull \hbox (290.83711pt too wide) in alignment at lines 956--956
+[] 
+ []
+
+
+Overfull \hbox (1.27043pt too wide) in alignment at lines 977--977
+[][] 
+ []
+
+
+Overfull \hbox (290.83711pt too wide) in alignment at lines 977--977
+[] 
+ []
+
+
+Overfull \hbox (1.27043pt too wide) in alignment at lines 998--998
+[][] 
+ []
+
+
+Overfull \hbox (290.83711pt too wide) in alignment at lines 998--998
+[] 
+ []
+
+
+Overfull \hbox (1.27043pt too wide) in alignment at lines 1019--1019
+[][] 
+ []
+
+
+Overfull \hbox (290.83711pt too wide) in alignment at lines 1019--1019
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1064
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1064
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1064
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1064
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1064
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1064
+
+ []
+
+
+Overfull \hbox (0.84413pt too wide) in paragraph at lines 1064--1064
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 936--1065
+[][][][][][] 
+ []
+
+
+Overfull \hbox (117.53314pt too wide) in paragraph at lines 1068--1069
+[] [][][][][][] 
+ []
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1071.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1071.
 
 (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 777.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 777.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1071.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1071.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 777.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1071.
  ) 
 Here is how much of TeX's memory you used:
- 21321 strings out of 481239
- 424364 string characters out of 5920377
- 735121 words of memory out of 5000000
- 36132 multiletter control sequences out of 15000+600000
- 546910 words of font info for 46 fonts, out of 8000000 for 9000
+ 21321 strings out of 480906
+ 424434 string characters out of 5910772
+ 740547 words of memory out of 5000000
+ 36459 multiletter control sequences out of 15000+600000
+ 549660 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,16n,69p,515b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.e
@@ -1254,10 +1443,10 @@ are/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADF-Bold.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADF-Regular.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on main.pdf (2 pages, 160595 bytes).
+Output written on main.pdf (4 pages, 203520 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 94 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

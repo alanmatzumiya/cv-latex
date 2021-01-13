@@ -351,7 +351,7 @@
 
 %\hspace{-1.6cm}
 %\includegraphics[trim= 0 250 0 270,clip,width=1\linewidth+3.1cm]{myfoto.jpg}	%trimming relative to image size!
-\includegraphics[width=0.9995\linewidth]{../img/banner.jpg}	%trimming relative to image size
+\includegraphics[width=0.9995\linewidth]{banner.jpg}	%trimming relative to image size
 
 %---------------------------------------------------------------------------------------
 %	SUMMARY
@@ -417,7 +417,7 @@
 %\textcolor{softcol}{\hrule}
 
 %
-\cvevent{2017 - 2019}{Programming Workshops}{Unison, Hermosillo}{Programming class teacher developed in Jupyter Notebook using Python language and oriented to engineering students}{The class material can be consulted at the following button: \hspace{8mm} \href{https://alanmatzumiya.github.io/pyFullStack/}{\colorbox{bgcol}{\colorbox{white}{\hspace{1mm}{\textcolor{bgcol}{\textbf{Notebooks}} \hspace{1.5mm} \icon{Github}{8}{bgcol}\hspace{1mm}}}}}}
+\cvevent{2017 - 2019}{Programming Workshops}{Unison, Hermosillo}{Programming class teacher developed in Jupyter Notebook using Python language and oriented to engineering students}{The class material can be consulted at the following button: \hspace{8mm} \href{https://circuitalminds.github.io/pyfullstack/}{\colorbox{bgcol}{\colorbox{white}{\hspace{1mm}{\textcolor{bgcol}{\textbf{Notebooks}} \hspace{1.5mm} \icon{Github}{8}{bgcol}\hspace{1mm}}}}}}
 
 %\textcolor{softcol}{\hrule}
 
@@ -426,7 +426,7 @@
 	Python package to solving PDE's including its stochastic versions \hspace{0.25mm} \href{https://www.github.com/alanmatzumiya/Paper/}{\colorbox{bgcol}{\colorbox{white}{\hspace{0mm} \textcolor{bgcol}{\textbf{Repository}} \hspace{1.5mm} \icon{Github}{8}{bgcol} \hspace{0mm}}}}
 	\vspace{1mm}}
 	{
-	Python Package to build spectral numerical methods \hspace{18mm} \href{https://www.github.com/alanmatzumiya/spectral-methods}{\colorbox{bgcol}{\colorbox{white}{\hspace{1.060mm}\textcolor{bgcol}{\textbf{Repository}} \hspace{1.5mm} \icon{Github}{8}{bgcol}\hspace{1.060mm}}}}
+	Python Package to build spectral numerical methods \hspace{18mm} \href{https://www.github.com/alanmatzumiya/pySpectralPDE}{\colorbox{bgcol}{\colorbox{white}{\hspace{1.060mm}\textcolor{bgcol}{\textbf{Repository}} \hspace{1.5mm} \icon{Github}{8}{bgcol}\hspace{1.060mm}}}}
 	\vspace{1mm}
 }
 
@@ -440,7 +440,7 @@
 	Master Degree in Mathematical Sciences}{Unison, Hermosillo}{Thesis: Numerical Solutions to the Stochastic and Deterministic Burgers Equation Using Spectral Methods
 	}
 	{
-	Click on the following button to download thesis file: \hspace{18mm} \href{https://github.com/alanmatzumiya/spectral-methods/raw/master/docs/Thesis.pdf}{\colorbox{bgcol}{\colorbox{white}{\textcolor{bgcol}{\hspace{3mm}\textbf{Get PDF}} \hspace{1.5mm} \icon{Download}{8}{bgcol}\hspace{3mm}}}}
+	Click on the following button to download thesis file: \hspace{18mm} \href{https://github.com/alanmatzumiya/pySpectralPDE/raw/master/docs/Thesis.pdf}{\colorbox{bgcol}{\colorbox{white}{\textcolor{bgcol}{\hspace{3mm}\textbf{Get PDF}} \hspace{1.5mm} \icon{Download}{8}{bgcol}\hspace{3mm}}}}
 }
 
 %\textcolor{sectcol}{\hrule}
@@ -468,7 +468,7 @@
 	
 	\iconhref{Link}{12}{\textbf{alanmatzumiya.github.io}}{https://alanmatzumiya.github.io/}{white}\\[6pt]
 	
-	\iconhref{Link}{12}{\textbf{Circuital Minds}}{https://alanmatzumiya.github.io/circuitalminds/}{white}\\[6pt]
+	\iconhref{Link}{12}{\textbf{Circuital Minds}}{https://circuitalminds.github.io/}{white}\\[6pt]
 	
 	\LARGE{
 	\href{https://www.github.com/alanmatzumiya/}{\icon{Github}{12}{white}}
@@ -544,6 +544,143 @@
 %	ARTIFICIAL FOOTER (fancy footer cannot exceed linewidth) 
 %--------------------------------------------------------------------------------------------------
 
+\vspace{1mm}
+\null
+\vspace*{\fill}
+\hspace{-0.25\linewidth}\colorbox{bgcol}{
+	\makebox[1.45\linewidth][c]{
+		\mystrut \small \textcolor{white}{
+			Coypright 2020 Alan Matzumiya}
+	}
+}
+
+\newpage
+%---------------------------------------------------------------------------------------
+%	PROJECTS
+%----------------------------------------------------------------------------------------
+\parbox{1\linewidth}{
+	\cvsection{Projects}
+	\includegraphics[width=1.0\linewidth]{screen_CircuitalMinds_git.png}
+}
+\parbox{1\linewidth}{	
+	\cvevent{}
+	{
+		Website Built by Jekyll Themes
+	}
+	{ 
+		\parbox{1\linewidth}{
+			{\href{https://circuitalminds.github.io/}
+				{
+					{\colorbox{gray}{\hspace{7mm}\textcolor{white}{\textbf{CircuitalMinds}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{7mm}}}}
+			}
+		}
+	}
+	{
+		Organization website called CircuitalMinds
+	}
+	{
+		Contains its own blog and an extended course to learn Python programming
+	}
+}
+\parbox{1\linewidth}{
+	\cvevent{
+	}
+	{
+		Set of applications using flask
+	}
+	{ 
+		\parbox{1\linewidth}{
+			{\href{https://circuitalminds.herokuapp.com/fractalmetric}	
+				{
+					{\colorbox{gray}{\hspace{7.5mm}\textcolor{white}{\textbf{FractalMetric}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{7.5mm}}}}
+			}	
+		}
+	}
+	{
+		This application contains the most common snippets and wrappers to build large web pages, giving an advantage due to its easeof use.
+	}
+	{
+		Its main objective is to scale to manage and maintain the resources used by CircuitalMinds
+	}
+}
+\parbox{1\linewidth}{
+	\cvevent{
+	}
+	{
+		Container-server for Jupyter Notebooks
+	}
+	{ \parbox{1\linewidth}{
+			{\href{https://nbsanalysis.herokuapp.com/notebooks/}	
+				{
+					{\colorbox{gray}{\hspace{3mm}\textcolor{white}{\textbf{Jupyter Notebooks}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{3mm}}}}
+			}
+		}
+	}
+	{
+		A container of notebooks that are prepared using Docker Hub with the help of a Pipeline, which are part of the resources of pyFullStack
+	}
+	{
+		With an automated process, the production of an application served in Heroku is carried out using Flask and being able to use thenotebooks in Jupyter.
+	}
+}
+\parbox{1\linewidth}{
+	\cvevent{
+	}
+	{
+		My home server
+	}
+	{ 
+		\parbox{1\linewidth}{
+			{\href{https://matsuhub.herokuapp.com/}
+				{
+					{\colorbox{gray}{\hspace{9.5mm}\textcolor{white}{\textbf{MatsuHub}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{9.5mm}}}}
+			}
+		}
+	}
+	{
+		This development is simply a product of FractalMetric, which is used locally to access my files.
+	}
+	{
+		It is also useful to listen to music downloaded through a wrapper to obtain YouTube videos
+	}
+}
+\vspace{10pt}
+\colorbox{gray}{
+	\parbox{1.0\linewidth}{
+		
+		\colorbox{bgcol}{
+			\parbox{0.98\linewidth}{
+				\cvsection{Presentation}
+				
+				\parbox{1\linewidth}{
+					
+					\textcolor{white}{ \colorbox{sectcol}{
+							By: Alan Matzumiya
+						}
+						\vspace{5pt}
+					}	
+					
+				}
+				\parbox{1\linewidth}{
+					\textcolor{white}{
+						The academic level that I have currently achieved characterizes me with a multidisciplinary training. However, it has not been myonly resource to develop skills and knowledge, since I constantly reinforce a self-taught discipline that is used to obtain a broadvision in relation to my areas of personal interest.
+						\\\\
+						The knowledge that I consider to highlight is the use of mathematics in different contexts such as its applications in physics andstatistics; including its theoretical and practical understanding complementing it with the use of programming languages that werementioned above, since I take advantage of having a fairly broad knowledge about them.
+						\\\\
+						However, in relation to my programming knowledge, my goal is to have a knowledge of the Python language at a professional level, and I currently have a good advantage considering this language as my greatest programming resource that allows meto go deeply enough in various related areas.
+						\\\\
+						You are free to read my projects considered for this document, and in case you have an interest in any that could be useful to you, with all the confidence you can count on my disposal and with pleasure provide the required information. Furthermore, ifyou have the impression that I can be considered part of your team, you can certainly count on me.
+						\\\\
+						\textcolor{col2}{Important:} I consider myself a good element for having the ability to understand details, order and document in the bestpossible way for future readers; As a mathematician and researcher, this dynamic is a fundamental practice that does not generateretrogression.
+						\\\\
+						\vspace{5pt}
+					}
+				}
+			}	
+		}
+	}
+}
+
 \null
 \vspace*{\fill}
 \hspace{-0.25\linewidth}\colorbox{bgcol}{\makebox[1.45\linewidth][c]{\mystrut \small \textcolor{white}{Coypright 2020 Alan Matzumiya}}}
@@ -577,7 +714,7 @@
 		
 		
 		%\includegraphics[trim= 0 250 0 270,clip,width=1\linewidth+3.1cm]{myfoto.jpg}	%trimming relative to image size!
-		\includegraphics[width=0.9995\linewidth]{../img/banner.jpg}	%trimming relative to image size
+		\includegraphics[width=0.9995\linewidth]{banner.jpg}	%trimming relative to image size
 		
 		%---------------------------------------------------------------------------------------
 		%	SUMMARY
@@ -644,7 +781,7 @@
 		%\textcolor{softcol}{\hrule}
 		
 		%
-		\cvevent{2017 - 2019}{Talleres de Programaci\'on}{Unison, Hermosillo}{Instructor en cursos de programaci\'on desarrollados en Jupyter Notebook usando lenguaje Python y orientados a estudiantes de ingenieria}{Puede consultar material de clase desde el siguiente bot\'on: \hspace{10mm} \href{https://alanmatzumiya.github.io/pyFullStack/}{\colorbox{bgcol}{\colorbox{white}{\hspace{0.5mm}\textcolor{bgcol}{\textbf{Notebooks}} \hspace{1.5mm} \icon{Github}{8}{bgcol} \hspace{0.5mm}}}}}
+		\cvevent{2017 - 2019}{Talleres de Programaci\'on}{Unison, Hermosillo}{Instructor en cursos de programaci\'on desarrollados en Jupyter Notebook usando lenguaje Python y orientados a estudiantes de ingenieria}{Puede consultar material de clase desde el siguiente bot\'on: \hspace{10mm} \href{https://circuitalminds.github.io/pyfullstack/}{\colorbox{bgcol}{\colorbox{white}{\hspace{0.5mm}\textcolor{bgcol}{\textbf{Notebooks}} \hspace{1.5mm} \icon{Github}{8}{bgcol} \hspace{0.5mm}}}}}
 		
 		%\textcolor{softcol}{\hrule}
 		
@@ -654,7 +791,7 @@
 			\vspace{2mm}
 			}
 		{
-			Paquete de Python para construir m\'etodos num\'ericos espectrales \hspace{0mm} \href{https://www.github.com/alanmatzumiya/spectral-methods}{\colorbox{bgcol}{\colorbox{white}{\hspace{1mm}\textcolor{bgcol}{\textbf{Repository}} \hspace{1.5mm} \icon{Github}{8}{bgcol}\hspace{1mm}}}
+			Paquete de Python para construir m\'etodos num\'ericos espectrales \hspace{0mm} \href{https://www.github.com/alanmatzumiya/pySpectralPDE/}{\colorbox{bgcol}{\colorbox{white}{\hspace{1mm}\textcolor{bgcol}{\textbf{Repository}} \hspace{1.5mm} \icon{Github}{8}{bgcol}\hspace{1mm}}}
 			}
 		}
 		
@@ -668,7 +805,7 @@
 			Grado de Maestr\'ia en Ciencias Matem\'aticas}{Unison, Hermosillo}{Tesis: Numerical Solutions to the Stochastic and Deterministic Burgers Equation Using Spectral Methods
 		}
 		{
-			Click en el siguiente bot\'on para descargar archivo de tesis: \hspace{10.5mm} \href{https://github.com/alanmatzumiya/spectral-methods/raw/master/docs/Thesis.pdf}{\colorbox{bgcol}{\colorbox{white}{\textcolor{bgcol}{\hspace{3mm}\textbf{Get PDF}} \hspace{1.5mm} \icon{Download}{8}{bgcol}\hspace{3mm}}}}
+			Click en el siguiente bot\'on para descargar archivo de tesis: \hspace{10.5mm} \href{https://github.com/alanmatzumiya/pySpectralPDE/raw/master/docs/Thesis.pdf}{\colorbox{bgcol}{\colorbox{white}{\textcolor{bgcol}{\hspace{3mm}\textbf{Get PDF}} \hspace{1.5mm} \icon{Download}{8}{bgcol}\hspace{3mm}}}}
 		}
 		
 		%\textcolor{sectcol}{\hrule}
@@ -696,7 +833,7 @@
 			
 			\iconhref{Link}{12}{\textbf{alanmatzumiya.github.io}}{https://alanmatzumiya.github.io/}{white}\\[6pt]
 			
-			\iconhref{Link}{12}{\textbf{Circuital Minds}}{https://alanmatzumiya.github.io/circuitalminds/}{white}\\[6pt]
+			\iconhref{Link}{12}{\textbf{Circuital Minds}}{https://circuitalminds.github.io/}{white}\\[6pt]
 			
 			\LARGE{
 				\href{https://www.github.com/alanmatzumiya/}{\icon{Github}{12}{white}}
@@ -768,6 +905,144 @@
 %-------------------------------------------------------------------------------------------------
 %	ARTIFICIAL FOOTER (fancy footer cannot exceed linewidth) 
 %--------------------------------------------------------------------------------------------------
+
+\vspace{1mm}
+\null
+\vspace*{\fill}
+\hspace{-0.25\linewidth}\colorbox{bgcol}{
+	\makebox[1.45\linewidth][c]{
+		\mystrut \small \textcolor{white}{
+			Coypright 2020 Alan Matzumiya}
+	}
+}
+
+\newpage
+%---------------------------------------------------------------------------------------
+%	PROYECTOS
+%----------------------------------------------------------------------------------------
+\parbox{1\linewidth}{
+	\cvsection{Proyectos}
+	\includegraphics[width=1.0\linewidth]{screen_CircuitalMinds_git.png}
+}
+\parbox{1\linewidth}{	
+	\cvevent{}
+	{
+		Sitio web construido usando Jekyll themes
+	}
+	{ 
+		\parbox{1\linewidth}{
+			{\href{https://circuitalminds.github.io/}
+				{
+					{\colorbox{gray}{\hspace{7mm}\textcolor{white}{\textbf{CircuitalMinds}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{7mm}}}}
+			}
+		}
+	}
+	{
+		Sitio web de la organización llamada CircuitalMinds
+	}
+	{
+		Contiene su propio blog y un curso extendido para aprender a programar en Python
+	}
+}
+\parbox{1\linewidth}{
+	\cvevent{
+	}
+	{
+		Conjunto de aplicaciones usando Flask
+	}
+	{ 
+		\parbox{1\linewidth}{
+			{\href{https://circuitalminds.herokuapp.com/fractalmetric}	
+				{
+					{\colorbox{gray}{\hspace{7.5mm}\textcolor{white}{\textbf{FractalMetric}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{7.5mm}}}}
+			}	
+		}
+	}
+	{
+		Esta aplicación contiene los snippets y wrappers más comunes para construir páginas web de gran tamaño, dando ventaja por su facilidad de uso.
+	}
+	{
+		Su principal objetivo es escalar para administrar y mantener los recursos usados por CircuitalMinds
+	}
+}
+\parbox{1\linewidth}{
+	\cvevent{
+	}
+	{
+		Contenedor-servidor para Jupyter Notebooks
+	}
+	{ \parbox{1\linewidth}{
+			{\href{https://nbsanalysis.herokuapp.com/notebooks/}	
+				{
+					{\colorbox{gray}{\hspace{3mm}\textcolor{white}{\textbf{Jupyter Notebooks}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{3mm}}}}
+			}
+		}
+	}
+	{
+		Un contenedor de notebooks que son preparados usando Docker Hub con ayuda de un Pipeline, los cuales forman parte de los
+		recursos de pyFullStack
+	}
+	{
+		Con un proceso automatizado, se lleva a cabo la producción de una aplicación servida en Heroku usando Flask y poder usar los notebooks en Jupyter.
+	}
+}
+\parbox{1\linewidth}{
+	\cvevent{
+	}
+	{
+		Mi servidor local
+	}
+	{ 
+		\parbox{1\linewidth}{
+			{\href{https://matsuhub.herokuapp.com/}
+				{
+					{\colorbox{gray}{\hspace{9.5mm}\textcolor{white}{\textbf{MatsuHub}} \hspace{1.5mm} \icon{Github}{8}{white}\hspace{9.5mm}}}}
+			}
+		}
+	}
+	{
+		Este desarrollo es simplemente un producto de FractalMetric, que es usada localmente para acceder a mis archivos.
+	}
+	{
+		Además es útil para escuchar música descargada mediante un wrapper para obtener videos de YouTube
+	}
+}
+\vspace{10pt}
+\colorbox{gray}{
+	\parbox{1.0\linewidth}{
+		
+		\colorbox{bgcol}{
+			\parbox{0.98\linewidth}{
+				\cvsection{PRESENTACIÓN}
+				
+				\parbox{1\linewidth}{
+					
+					\textcolor{white}{ \colorbox{sectcol}{
+							Por: Alan Matzumiya
+						}
+						\vspace{5pt}
+					}	
+					
+				}
+				\parbox{1\linewidth}{
+					\textcolor{white}{
+						El nivel académico que he logrado actualmente me caracteriza con una formación multidisciplinaria. Sin embargo, no ha sido miúnico recurso para desarrollar habilidades y conocimientos, ya que constantemente refuerzo una disciplina autodidacta que esaprovechada para obtener una visión amplia en relación con mis áreas de interés personal.
+						\\\\
+						El conocimiento que considero para destacar, es el uso de las matemáticas en distintos contextos tales como sus aplicaciones enla física y la estadística; incluyendo su entendimiento teórico y práctico complementándolo con el uso de lenguajes de programación que fueron mencionados anteriormente, ya que tomo ventaja al contar con un conocimiento bastante amplio acerca de estos.
+						\\\\
+						Sin embargo, en relación con mis conocimientos de programación, mi objetivo es contar con un conocimiento del lenguajePython a nivel profesional, y actualmente cuento con buena ventaja considerando este lenguaje como mi mayor recurso deprogramación que me permite profundizar lo suficiente en diversas áreas relacionadas.
+						\\\\
+						Son libres de leer mis proyectos considerados para este documento, y en caso de tener el interés por alguno que pudieraser útil para ustedes, con toda la confianza pueden contar con mi disposición y con gusto proporcionar la información requerida.Más aún, si tienen la impresión de que puedo ser considerado como parte de su equipo, con toda seguridad es posible contar conmigo.
+						\\\\
+						\textcolor{col2}{Importante:} Me considero un buen elemento por tener la capacidad de comprender detalles, ordenar y documentar de lamejor manera posible para futuros lectores; Como matemático e investigador, esta dinámica es una práctica fundamental que nogenera retroceso.
+						\\\\
+						\vspace{5pt}	
+					}
+				}
+			}	
+		}
+	}
+}
 
 \null
 \vspace*{\fill}
