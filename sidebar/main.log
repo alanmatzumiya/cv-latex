@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.11.6)  12 JAN 2021 23:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.11.6)  13 JAN 2021 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1412,12 +1412,82 @@ Overfull \hbox (123.53314pt too wide) in paragraph at lines 1060--1066
 Overfull \vbox (5.0pt too high) has occurred while \output is active []
 
  [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1068.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1068.
+<./records/constance_physics.png, id=72, 3286.2775pt x 2540.49126pt>
+File: ./records/constance_physics.png Graphic file (type png)
+<use ./records/constance_physics.png>
+Package pdftex.def Info: ./records/constance_physics.png  used on input line 10
+98.
+(pdftex.def)             Requested size: 355.23358pt x 274.60931pt.
+<./records/physics_convocatoria.pdf, id=73, 536.48428pt x 728.24072pt>
+File: ./records/physics_convocatoria.pdf Graphic file (type pdf)
+<use ./records/physics_convocatoria.pdf>
+Package pdftex.def Info: ./records/physics_convocatoria.pdf  used on input line
+ 1098.
+(pdftex.def)             Requested size: 191.28474pt x 259.65514pt.
+<./records/python_courses1.pdf, id=74, 757.6305pt x 604.89992pt>
+File: ./records/python_courses1.pdf Graphic file (type pdf)
+<use ./records/python_courses1.pdf>
+Package pdftex.def Info: ./records/python_courses1.pdf  used on input line 1098
+.
+(pdftex.def)             Requested size: 273.25917pt x 218.16992pt.
+<./records/python_courses2.pdf, id=75, 792.0792pt x 605.62259pt>
+File: ./records/python_courses2.pdf Graphic file (type pdf)
+<use ./records/python_courses2.pdf>
+Package pdftex.def Info: ./records/python_courses2.pdf  used on input line 1098
+.
+(pdftex.def)             Requested size: 273.25917pt x 208.93077pt.
+<./records/astronomy_courses.pdf, id=76, 792.80193pt x 603.6954pt>
+File: ./records/astronomy_courses.pdf Graphic file (type pdf)
+<use ./records/astronomy_courses.pdf>
+Package pdftex.def Info: ./records/astronomy_courses.pdf  used on input line 10
+98.
+(pdftex.def)             Requested size: 273.25917pt x 208.0817pt.
+<./records/lab_iq.png, id=77, 3308.36pt x 2548.52126pt>
+File: ./records/lab_iq.png Graphic file (type png)
+<use ./records/lab_iq.png>
+Package pdftex.def Info: ./records/lab_iq.png  used on input line 1098.
+(pdftex.def)             Requested size: 273.25917pt x 210.4967pt.
 
-(./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1068.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1068.
+Overfull \hbox (1.99998pt too wide) in paragraph at lines 1098--1098
+[]$ $[]$
+ []
+
+
+Overfull \hbox (2.0pt too wide) in paragraph at lines 1098--1098
+[]$ $[]$
+ []
+
+
+Overfull \hbox (2.0pt too wide) in paragraph at lines 1098--1098
+[]$ $[]$ 
+ []
+
+
+Overfull \hbox (0.84413pt too wide) in paragraph at lines 1098--1098
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1098--1099
+[][][][][][][] 
+ []
+
+
+Overfull \hbox (123.53314pt too wide) in paragraph at lines 1102--1108
+[] [][][][][][] 
+ []
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [5 <./records/constance_physics.png> <./records/physics_convocatoria.pdf> <./r
+ecords/python_courses1.pdf> <./records/python_courses2.pdf> <./records/astronom
+y_courses.pdf> <./records/lab_iq.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1110.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1110.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1110.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1425,13 +1495,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1068.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1110.
  ) 
 Here is how much of TeX's memory you used:
- 21321 strings out of 480906
- 424434 string characters out of 5910772
+ 21359 strings out of 480906
+ 425644 string characters out of 5910772
  740547 words of memory out of 5000000
- 36459 multiletter control sequences out of 15000+600000
+ 36489 multiletter control sequences out of 15000+600000
  549660 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,16n,69p,515b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1443,10 +1513,10 @@ are/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADF-Bold.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADF-Regular.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on main.pdf (4 pages, 203520 bytes).
+Output written on main.pdf (5 pages, 9723275 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
