@@ -1,17 +1,12 @@
 #!/usr/bin/env bash
 
 
-name=$1
+pdflatex "cv.tex";
 
-cd ./templates
-pdflatex "$name.tex";
-
-for i in aux log out
+for i in aux log out tex
 do
-  if [ -f "$name.$i" ]
+  if [ -f "cv.$i" ]
     then
-      rm "$name.$i"
+      rm "cv.$i"
   fi
 done
-
-mv "$name.pdf" ../cv.pdf

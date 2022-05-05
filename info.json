@@ -1,0 +1,84 @@
+{
+    "image": "photo.jpg",
+    "name": "Alan Daniel Matzumiya Zazueta",
+    "profession": "Ingeniero Quimico y Maestro en Ciencias Matematicas",
+    "age": "29 años",
+    "birthday": "14/09/1992",
+    "birthplace": "Guaymas, Son",
+    "residency": "Hermosillo, Son",
+    "cellphone": "662-364-8525",
+    "email": "alan.matzumiya@gmail.com",
+    "github": "alanmatzumiya",
+    "english-written-percent": "90",
+    "english-written-scale": "0.9",
+    "english-spoken-percent": "80",
+    "english-spoken-scale": "0.8",
+    "aptitudes": [
+        "liderazgo",
+        "organizacion",
+        "planificacion",
+        "trabajo en equipo",
+        "iniciativa"
+    ],
+    "skills": [
+        {
+            "name": "C++/Python/PHP",
+            "scale": "1",
+            "years": "8"
+        },
+        {
+            "name": "Javascript/HTML/CSS",
+            "scale": "0.9",
+            "years": "5"
+        },
+        {
+            "name": "VB/R/Matlab",
+            "scale": "0.9",
+            "years": "6"
+        },
+        {
+            "name": "Microsoft-Office",
+            "scale": "1",
+            "years": "10"
+        }
+    ],
+    "education": [
+        {
+            "period": "2011 - 2016",
+            "name": "Ingeniería Química",
+            "institution": "Universidad de Sonora",
+            "description": "Titulado mediante tesis desarrollada en el área de materiales bio-ceramicos.",
+            "href": "http://www.repositorioinstitucional.uson.mx/handle/unison/1840"
+        },
+        {
+            "period": "2017-2019",
+            "name": "Maestría en Ciencias Matemáticas",
+            "institution": "Universidad de Sonora",
+            "description": "Grado obtenido mediante tesis acerca del uso de transformadas de Fourier para resolver ecuaciones diferenciales parciales que surgen en dinámica de fluidos",
+            "href": ""
+        }
+    ],
+    "experience": [
+        {
+            "name": "Practicas Profesionales",
+            "place": "CFE - Central Ciclo Combinado - Hermosillo",
+            "period": "mayo - junio 2015",
+            "description": "Planeacion y propuesta para modificacion de la planta tratadora de agua para lograr un flujo optimo sobre las tuberias y obtener un buen control en el proceso, que con fines ambientales tiene como funcion principal recuperar agua del proceso de generacion de energia electrica.",
+            "href": ""
+        },
+        {
+            "name": "Investigacion",
+            "place": "Instituto de Matemáticas, UNAM - Oaxaca de Juárez",
+            "period": "junio 2018",
+            "description": "Investigación dirigida por el Dr. Francisco Javier Delgado Vences para estudiar métodos de resolución de ecuaciones diferenciales parciales estocásticas, con la finalidad de publicar un artículo científico y desarrollar mi tesis de grado. Enlace de la publicacion.",
+            "href": "https://www.researchgate.net/publication/334330862_INITIAL_CONDITIONS_CONTINUITY_OF_A_NUMERICAL_APPROXIMATION_FOR_KOLMOGOROV_EQUATIONS"
+        },
+        {
+            "name": "Cursos de Programación en Python",
+            "place": "Universidad de Sonora",
+            "period": "2017-2019",
+            "description": "Cursos introductorios al lenguaje mostrando el uso de las tecnologías para la resolución de problemas en la ingeniería.",
+            "href": ""
+        }
+    ]
+}
